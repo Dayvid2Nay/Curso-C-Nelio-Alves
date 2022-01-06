@@ -1,0 +1,16 @@
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\Primeiro Programa.exe
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\Primeiro Programa.deps.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\Primeiro Programa.runtimeconfig.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\Primeiro Programa.runtimeconfig.dev.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\Primeiro Programa.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\ref\Primeiro Programa.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\bin\Debug\net5.0\Primeiro Programa.pdb
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.csproj.AssemblyReference.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.AssemblyInfoInputs.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.AssemblyInfo.cs
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.csproj.CoreCompileInputs.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\ref\Primeiro Programa.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.pdb
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Primeiro Programa\Primeiro Programa\obj\Debug\net5.0\Primeiro Programa.genruntimeconfig.cache
