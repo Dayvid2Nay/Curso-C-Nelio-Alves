@@ -1,0 +1,16 @@
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\Exercicios1-Estrutura-Sequencial.exe
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\Exercicios1-Estrutura-Sequencial.deps.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\Exercicios1-Estrutura-Sequencial.runtimeconfig.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\Exercicios1-Estrutura-Sequencial.runtimeconfig.dev.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\Exercicios1-Estrutura-Sequencial.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\ref\Exercicios1-Estrutura-Sequencial.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\bin\Debug\net5.0\Exercicios1-Estrutura-Sequencial.pdb
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.csproj.AssemblyReference.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.AssemblyInfoInputs.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.AssemblyInfo.cs
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.csproj.CoreCompileInputs.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\ref\Exercicios1-Estrutura-Sequencial.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.pdb
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicios1-Estrutura-Sequencial\obj\Debug\net5.0\Exercicios1-Estrutura-Sequencial.genruntimeconfig.cache

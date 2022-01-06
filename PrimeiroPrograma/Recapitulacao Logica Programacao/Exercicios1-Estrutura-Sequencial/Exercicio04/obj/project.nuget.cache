@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JLfvmNyesSfbElQZYOS7y1gPBYFmIwfh4XNQ+NanJG71iGUX+wM/or0f5bQ4vaWWgEDBPnw4TNdudeW16gdB7Q==",
+  "success": true,
+  "projectFilePath": "F:\\Dev\\Curso C# Nelio Alves\\PrimeiroPrograma\\Recapitulacao Logica Programacao\\Exercicios1-Estrutura-Sequencial\\Exercicio04\\Exercicio04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dayvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

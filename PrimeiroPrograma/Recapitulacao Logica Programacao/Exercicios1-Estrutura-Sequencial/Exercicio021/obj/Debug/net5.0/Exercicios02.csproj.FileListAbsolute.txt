@@ -1,0 +1,16 @@
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\Exercicios02.exe
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\Exercicios02.deps.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\Exercicios02.runtimeconfig.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\Exercicios02.runtimeconfig.dev.json
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\Exercicios02.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\ref\Exercicios02.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\bin\Debug\net5.0\Exercicios02.pdb
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.csproj.AssemblyReference.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.AssemblyInfoInputs.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.AssemblyInfo.cs
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.csproj.CoreCompileInputs.cache
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\ref\Exercicios02.dll
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.pdb
+F:\Dev\Curso C# Nelio Alves\PrimeiroPrograma\Recapitulacao Logica Programacao\Exercicios1-Estrutura-Sequencial\Exercicio021\obj\Debug\net5.0\Exercicios02.genruntimeconfig.cache
